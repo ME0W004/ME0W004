@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahdi 👋</h1>
-<p align="center">Computer Engineering Student | AI Enthusiast | Future Full-Stack Developer | Algorithms & Data Structures Lover</p>
+<p align="center">Computer Engineering Student | AI Enthusiast | Algorithms & Data Structures Lover</p>
 
 ---
 
@@ -21,7 +21,6 @@
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Algorithms & Data Structures
-- 🌐 Full-Stack  Development
 - 📊 Data Analysis & Visualization
 
 ---
