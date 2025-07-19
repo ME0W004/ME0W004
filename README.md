@@ -34,8 +34,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ME0W004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ME0W004&layout=compact&hide_title=true&hide_progress=true&text_color=ffffff&bg_color=1c1c1c&lang_color=ffffff&python=00ff00&html=ff0000)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ME0W004&layout=compact&theme=dracula) 
 ---
 
 ## 📫 Contact Me
